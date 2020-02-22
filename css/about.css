@@ -66,3 +66,92 @@ p {
     line-height: 1.4;
 }
 
+.about-nav {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 3%;
+}
+
+.about-nav a {
+    color: black;
+    text-decoration: none;
+    margin-top: 2%;
+}
+
+.jumbo-about {
+    width: 90%;
+    margin: 0 0 2% 6%;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.top-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+}
+
+.top-content .text-container {
+    width: 100%;
+    padding: 0 1%;
+    padding-bottom: 20px;  
+}
+
+.middle-top {
+    display: flex;
+    border-bottom: 1px dashed;
+}
+
+.middle-top .text-container {
+    width: 45%;
+    margin: 3%;
+    padding: 1%
+}
+
+.learn-more-btn {
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 2%;
+    
+}
+
+.middle-bottom {
+    display: flex;
+    border-bottom: 1px dashed;
+}
+
+.middle-bottom .text-container {
+    width: 45%;
+    margin: 3%;
+    padding: 1%
+}
+
+.bottom-content {
+    margin: 0 2% 20px;
+    padding-top: 4%;
+}
+
+footer {
+    width: 100%;
+    background: black;
+}
+
+footer nav {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 2%;
+    font-size: 14px;
+}
+
+footer nav a {
+    color: white;
+    text-decoration: none;
+}
+
