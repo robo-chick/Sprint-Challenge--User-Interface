@@ -1,0 +1,11 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+ Markup that gives HTML meaning. 
+
+Name two big differences between display: block; and display: inline;. Inline elements don't start on a new line. You also cannot add height to the top or bottom padding or margin of an inline element. 
+ 
+
+What are the 4 areas of the box model? Content, padding, border, margin.
+
+While using flexbox, what axis does the following property work on: align-items: center? cross-axis
+
+Explain why git is valuable to a team of developers. Version control, tracks all changes so that if any mistakes are made you can go back to previous versions. 
